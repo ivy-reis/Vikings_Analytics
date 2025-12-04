@@ -24,7 +24,7 @@ O dashboard é dividido em duas grandes seções unificadas:
 - **[Vite](https://vitejs.dev/):** Ferramenta de build e servidor de desenvolvimento rápido.
 - **[Lucide React](https://lucide.dev/):** Biblioteca de ícones (Escudos, Troféus, Gráficos).
 - **JavaScript (ES6+):** Lógica de manipulação e filtragem de dados.
-- **CSS/Estilização:** Layout responsivo e moderno (Bento Grid).
+- **CSS/Estilização:** Layout responsivo (Bento Grid).
 
 ## 📦 Como rodar o projeto
 
